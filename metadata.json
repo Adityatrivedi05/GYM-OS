@@ -1,0 +1,6 @@
+{
+  "name": "FitFlow AI — Gym Management & Automation Platform",
+  "description": "All-in-one AI-powered gym operating system with 3D cinematic experience, real-time analytics, trainer & member management, QR attendance, Razorpay payments, and automated WhatsApp workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
